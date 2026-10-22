@@ -21,6 +21,5 @@ AI, 글쓰기, 지식 관리, 포트폴리오 등 시스템에 관심을 가지�
 - **자산 포트폴리오**
 - **일일 퀘스트**
 
-## Links
-- Threads:
-- Instagram:
+## SNS
+- Threads/Instagram : @94hyeonseo
